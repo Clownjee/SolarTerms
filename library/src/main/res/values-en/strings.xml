@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">country-code-picker</string>
+
+    <string name="please_select_a_country_or_region">Please select a country or region</string>
+    <string name="cancel">Cancel</string>
+</resources>

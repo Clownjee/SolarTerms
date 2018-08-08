@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorControlHighlight">@color/color999999</item>
+        <item name="android:windowBackground">@color/color999999</item>
+    </style>
+
+</resources>
